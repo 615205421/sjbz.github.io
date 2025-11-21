@@ -1,1 +1,1 @@
-https://sjbz.github.io/
+sjbz.github.io/
